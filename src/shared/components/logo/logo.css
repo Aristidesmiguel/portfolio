@@ -1,0 +1,9 @@
+
+.logoText_logo {
+    font-size: 1.5rem;
+    cursor: pointer;
+    background:  linear-gradient(90deg, #00C0FD, #E70FAA);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: bold;
+}
